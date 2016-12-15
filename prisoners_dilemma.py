@@ -3,7 +3,7 @@ from __future__ import print_function
 
 #=======
 #>>>>>>> master
-#Alex is number 7
+#Alex is number 7 
 ##### 
 # Computer Science and Software Engineering
 # PLTW AP CS Principles
@@ -21,6 +21,8 @@ from __future__ import print_function
 # Each strategy is pitted against each other strategy for 100 to 200 rounds.
 # The results of all previous rounds within a 100-200 round stretch are known
 # to both players. 
+#
+# My nama jeff
 #
 # play_tournament([team0, team1, team2]) executes a tournament and writes to tournament.txt
 #
