@@ -1,4 +1,8 @@
 from __future__ import print_function
+#<<<<<<< testing
+
+#=======
+#>>>>>>> master
 #Alex is number 7
 ##### 
 # Computer Science and Software Engineering
