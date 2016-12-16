@@ -3,7 +3,9 @@ from __future__ import print_function
 
 #=======
 #>>>>>>> master
-#Alex is number 7 
+#Alex is number 7
+#James is number 3
+#My nama jeff xD
 ##### 
 # Computer Science and Software Engineering
 # PLTW AP CS Principles
