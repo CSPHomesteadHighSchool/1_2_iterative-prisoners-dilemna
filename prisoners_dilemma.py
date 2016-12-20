@@ -3,12 +3,28 @@ from __future__ import print_function
 
 #=======
 #>>>>>>> master
-#Alex is number 7 
+<<<<<<< HEAD
+#Alex is number 444444
+=======
+#  is number 0
+#  is number 1
+#  is number 2
+#James is number 3
+#  is number 4
+#  is number 5
+#  is number 6
+#Alex is number 7
+#Raja is number 8
+#  is number 9
+#  is number 10
+#  is number 11
+#  is number 12
+>>>>>>> origin/master
 ##### 
 # Computer Science and Software Engineering
 # PLTW AP CS Principles
 # (c)2014 Project Lead The Way, Inc.
-#
+# bow before me 
 # Activity 1.3.9 Tools for Collaboration
 # Project 1.3.10 Collaborating on a Project
 # 
