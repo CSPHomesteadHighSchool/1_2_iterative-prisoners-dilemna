@@ -1,6 +1,6 @@
 from __future__ import print_function
 #<<<<<<< testing
-
+#My nama jeff xD
 #=======
 #>>>>>>> master
 <<<<<<< HEAD
@@ -16,9 +16,9 @@ from __future__ import print_function
 #Alex is number 7
 #Raja is number 8
 #Camren is number 9
-#  is number 10
+#   is number 10
 #  is number 11
-#  is number 12
+# Luke is number 12
 >>>>>>> origin/master
 ##### 
 # Computer Science and Software Engineering
