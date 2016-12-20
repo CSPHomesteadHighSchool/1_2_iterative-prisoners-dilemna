@@ -18,7 +18,7 @@ from __future__ import print_function
 #Camren is number 9
 #  is number 10
 #  is number 11
-# Evan is number 12
+#  is number 12
 >>>>>>> origin/master
 ##### 
 # Computer Science and Software Engineering
